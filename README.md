@@ -3,13 +3,15 @@
 Micropython firmware for an automated electrode etcher using the 
 [M5Stack Core S3](https://shop.m5stack.com/products/m5stack-cores3-esp32s3-lotdevelopment-kit).
 
-The hardware for this project can be found in 
-[electode-etcher-hardware](https://github.com/willdickson/electrode-etcher-hardware).
+
 
 ![device_side_view](images/device_side_view.png)
 
 
 ![ui_stopped_screen](images/ui_stopped_screen.png)
+
+The hardware design files for this project can be found in 
+[electode-etcher-hardware](https://github.com/willdickson/electrode-etcher-hardware).
 
 
 ## Requirements
