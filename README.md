@@ -1,6 +1,6 @@
 ## electrode-etcher-firmware
 
-Micropython firmware and automated electrode etcher using the 
+Micropython firmware for an automated electrode etcher using the 
 [M5Stack Core S3](https://shop.m5stack.com/products/m5stack-cores3-esp32s3-lotdevelopment-kit).
 
 The hardware for this project can be found in 
