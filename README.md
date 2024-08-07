@@ -6,10 +6,10 @@ Micropython firmware for an automated electrode etcher using the
 The hardware for this project can be found in 
 [electode-etcher-hardware](https://github.com/willdickson/electrode-etcher-hardware).
 
-![device_side_view](images/device_side_view.jpg)
+![device_side_view](images/device_side_view.png)
 
 
-![ui_stopped_screen](images/ui_stopped_screen.jpg)
+![ui_stopped_screen](images/ui_stopped_screen.png)
 
 
 ## Requirements
